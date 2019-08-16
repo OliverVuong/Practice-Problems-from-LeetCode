@@ -15,5 +15,7 @@ class Main {
         //IntToRoman.test();
         RomanToInt.test();
 
+        //TestRunner myTest = new TestRunner();
+        //myTest.test();
     }
 }
